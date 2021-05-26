@@ -1,4 +1,5 @@
-# sqwizi-frontend
+# JSON LD Generator [frontend]
+Used for SEO need
 
 ## Project setup
 ```
